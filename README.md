@@ -1,5 +1,3 @@
-this is my first edit
-
 Addressbook Tutorial
 ====================
 
